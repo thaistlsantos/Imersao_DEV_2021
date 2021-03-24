@@ -1,10 +1,7 @@
-var valorDolar = prompt("Qual o valor em Dóllar que você deseja converter???")
+var valorDolar = prompt("Qual o valor em Dólar você deseja converter ???")
 
-var valorDolarNum = parseFloat(valorDolar)
+var vDolarNum = parseFloat(valorDolar)
+var vReal = vDolarNum * 5.50
+var vRealDecimal = vReal.toFixed(2)
 
-alert(valorDolarNum)
-
-var valorReal = valorDolarNum * 5.50
-var valorRealDecimal = valorRealDecimal.toFixed(2)
-
-alert(valorRealDecimal)
+alert ("Valor convertido é: " + vRealDecimal) é: " + vRealDecimal)
