@@ -11,6 +11,6 @@
 Inserimos o valor em dólar, e nos mostra a conversão para real.
 
 ### Imagem
-<img align:"center" alt= "tela" height= "100" width = "300" src = "https://gyazo.com/db1db3b27a1cd4c332c453d4598d6795" >
+<img align="center" alt="tela" height="100" width ="300" src="https://gyazo.com/db1db3b27a1cd4c332c453d4598d6795">
 
 ![Tela](https://gyazo.com/db1db3b27a1cd4c332c453d4598d6795)
